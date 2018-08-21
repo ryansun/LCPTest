@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LCPTest'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of LCPTest.'
+  s.version          = '1.0.2'
+  s.summary          = '111A111 short description of LCPTest.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,19 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: 111A11dd long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/jwssduaixi/LCPTest'
+  s.homepage         = 'https://github.com/ryansun'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jwssduaixi' => '969811030@qq.com' }
-  s.source           = { :git => 'https://github.com/jwssduaixi/LCPTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ryansun/LCPTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LCPTest/Classes/**/*'
+s.source_files = 'LCPTest/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'LCPTest' => ['LCPTest/Assets/*.png']
