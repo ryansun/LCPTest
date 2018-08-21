@@ -1,0 +1,6 @@
+framework module LCPTest {
+  umbrella header "LCPTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

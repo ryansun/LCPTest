@@ -1,0 +1,16 @@
+PODS:
+  - LCPTest (0.1.0)
+
+DEPENDENCIES:
+  - LCPTest (from `../`)
+
+EXTERNAL SOURCES:
+  LCPTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCPTest: 7a19c03bb338a09c63915cfe0cb2a65f66b2cbf8
+
+PODFILE CHECKSUM: 8752b4a6231056efbf50e0af62be95d97c43ae1f
+
+COCOAPODS: 1.5.3
